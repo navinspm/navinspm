@@ -46,7 +46,7 @@
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 <td align="center" width="25%">
-<img height=60px src="https://rubyonrails.org/images/rails-logo.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-vertical.svg"> 
 </td>
  <td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> 
@@ -66,7 +66,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/fazer1929" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fazer1929" height="30" width="40" /></a>
+<a href="https://dev.to/navinspm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fazer1929" height="30" width="40" /></a>
 <a href="https://twitter.com/navinspm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fazer1929" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/navinspm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekagrawal1929" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/navinspm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fazer1929" height="30" width="40" /></a>
