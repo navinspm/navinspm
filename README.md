@@ -46,7 +46,7 @@
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 <td align="center" width="25%">
-<img height=60px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-vertical.svg"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"> 
 </td>
  <td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> 
