@@ -4,15 +4,15 @@
 <h3> 🧝🏻‍💻 &nbsp;About Me </h3>
 
 - 👋 Hi, I’m @navinspm
-- 👀 I’m interested in Ruby on Rails
+- 👀 I’m interested in Ruby,React,Azure.
 - 💞️ I’m looking to collaborate on ruby gems
 - ✍️ &nbsp; Trying Blog Writing on the side.
-- 🌱 I’m currently learning **React, Java**
+- 🌱 I’m currently learning **Python**
 
 -
 - 📝 I regularly write articles on [https://navinspm.wordpress.com/](https://navinspm.wordpress.com)
 
-- 💬 Ask me about **Ruby, Rails**
+- 💬 Ask me about **Ruby, Rails,React, Azure**
 
 - 📫 How to reach me **navinspm@gmail.com**
 
@@ -47,6 +47,9 @@
 </td>
 <td align="center" width="25%">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"> 
+</td>
+<td align="center" width="25%">
+<img height=60px src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> 
 </td>
  <td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> 
