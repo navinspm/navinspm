@@ -4,15 +4,15 @@
 <h3> 🧝🏻‍💻 &nbsp;About Me </h3>
 
 - 👋 Hi, I’m @navinspm
-- 👀 I’m interested in Ruby,React,Azure.
-- 💞️ I’m looking to collaborate on ruby gems
+- 👀 I’m interested in Devops, Azure,Ruby,React.
+- 💞️ I’m looking to collaborate on ruby gems.
 - ✍️ &nbsp; Trying Blog Writing on the side.
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Kubernetes**
 
 -
 - 📝 I regularly write articles on [https://navinspm.wordpress.com/](https://navinspm.wordpress.com)
 
-- 💬 Ask me about **Ruby, Rails,React, Azure**
+- 💬 Ask me about **Ruby, Rails, React, Azure**
 
 - 📫 How to reach me **navinspm@gmail.com**
 
