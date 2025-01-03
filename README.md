@@ -4,7 +4,8 @@
 <h3> 🧝🏻‍💻 &nbsp;About Me </h3>
 
 - 👋 Hi, I’m @navinspm
-- 👀 I’m interested in Devops, Azure,Ruby,React.
+- 👀 I’m interested in Web development using **Python**, **React**, and **Ruby**.
+- ☁️ I have a strong focus on  **Cloud** technologies, and **DevOps** practices.
 - 💞️ I’m looking to collaborate on ruby gems.
 - ✍️ &nbsp; Trying Blog Writing on the side.
 - 🌱 I’m currently learning **Kubernetes**
@@ -12,7 +13,7 @@
 -
 - 📝 I regularly write articles on [https://navinspm.wordpress.com/](https://navinspm.wordpress.com)
 
-- 💬 Ask me about **Ruby, Rails, React, Azure**
+- 💬 Ask me about **Python, Ruby, Rails, React, Azure**
 
 - 📫 How to reach me **navinspm@gmail.com**
 
@@ -27,6 +28,9 @@
 <table>
 <tbody>
  <tr>
+  <td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"> 
+</td>
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"> 
 </td>
@@ -44,6 +48,9 @@
  <tr>
 <td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+</td>
+  <td align="center" width="25%">
+<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
 </td>
 <td align="center" width="25%">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"> 
